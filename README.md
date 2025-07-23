@@ -1,4 +1,4 @@
-# Hi, I'm Faizan Khan ðŸ‘‹
+# Hi, I'm Faizan Khan ‹
 
 I'm a backend-focused software developer passionate about building secure, scalable, and impactful solutions. Whether it's integrating cloud services with Supabase Edge Functions or visualizing performance trends in Power BI â€” I'm always crafting something that delivers value.
 
@@ -46,7 +46,7 @@ I'm a backend-focused software developer passionate about building secure, scala
 ---
 
 ## ðŸ“¬ Let's Connect
-ðŸ“§ ggi2022.2241@ggi.ac.in  
+ðŸ“§ sahabkhan6005@gmail.com
 ðŸ”— [LinkedIn](https://www.linkedin.com/in/faizan-khan-a50235247)  
 ðŸ™ [GitHub](https://github.com/Faizkhan2214)
 
